@@ -1,0 +1,1 @@
+This's my third project from 100 python project challenge. It's a prime number checker. I'm practicing basics with this challenges.
